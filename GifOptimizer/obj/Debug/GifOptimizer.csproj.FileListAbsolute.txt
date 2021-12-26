@@ -1,0 +1,20 @@
+E:\Udemy\Gif optimizer\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.exe.config
+E:\Udemy\Gif optimizer\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.exe
+E:\Udemy\Gif optimizer\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.pdb
+E:\Udemy\Gif optimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.Form1.resources
+E:\Udemy\Gif optimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.Properties.Resources.resources
+E:\Udemy\Gif optimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csproj.GenerateResource.Cache
+E:\Udemy\Gif optimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csproj.CoreCompileInputs.cache
+E:\Udemy\Gif optimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.exe
+E:\Udemy\Gif optimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.pdb
+E:\Udemy\Gif optimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csprojResolveAssemblyReference.cache
+C:\Users\OguzBozkurt\Downloads\Gif-Optimizer-csharp-src\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csprojAssemblyReference.cache
+C:\Users\OguzBozkurt\Downloads\Gif-Optimizer-csharp-src\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.exe
+C:\Users\OguzBozkurt\Downloads\Gif-Optimizer-csharp-src\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.pdb
+C:\Users\OguzBozkurt\Downloads\Gif-Optimizer-csharp-src\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.exe.config
+C:\Users\OguzBozkurt\Downloads\Gif-Optimizer-csharp-src\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.exe
+C:\Users\OguzBozkurt\Downloads\Gif-Optimizer-csharp-src\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.pdb
+C:\Users\OguzBozkurt\Downloads\Gif-Optimizer-csharp-src\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.Form1.resources
+C:\Users\OguzBozkurt\Downloads\Gif-Optimizer-csharp-src\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.Properties.Resources.resources
+C:\Users\OguzBozkurt\Downloads\Gif-Optimizer-csharp-src\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csproj.GenerateResource.cache
+C:\Users\OguzBozkurt\Downloads\Gif-Optimizer-csharp-src\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csproj.CoreCompileInputs.cache
